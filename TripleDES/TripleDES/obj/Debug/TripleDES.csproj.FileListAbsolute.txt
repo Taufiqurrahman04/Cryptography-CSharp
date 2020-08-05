@@ -1,0 +1,12 @@
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\bin\Debug\TripleDES.exe.config
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\bin\Debug\TripleDES.exe
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\bin\Debug\TripleDES.pdb
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\obj\Debug\TripleDES.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\obj\Debug\TripleDES.exe
+C:\Users\Taufiqurrahman\source\repos\TripleDES\TripleDES\obj\Debug\TripleDES.pdb
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\bin\Debug\TripleDES.exe.config
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\bin\Debug\TripleDES.exe
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\bin\Debug\TripleDES.pdb
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\obj\Debug\TripleDES.csprojAssemblyReference.cache
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\obj\Debug\TripleDES.exe
+D:\My_data\Sample Code\C#\Cryptography\TripleDES\TripleDES\obj\Debug\TripleDES.pdb
