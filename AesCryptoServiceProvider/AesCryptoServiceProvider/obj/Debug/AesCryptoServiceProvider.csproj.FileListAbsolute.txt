@@ -1,0 +1,6 @@
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\bin\Debug\AesCryptoServiceProvider.exe.config
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\bin\Debug\AesCryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\bin\Debug\AesCryptoServiceProvider.pdb
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\obj\Debug\AesCryptoServiceProvider.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\obj\Debug\AesCryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\AesCryptoServiceProvider\AesCryptoServiceProvider\obj\Debug\AesCryptoServiceProvider.pdb
