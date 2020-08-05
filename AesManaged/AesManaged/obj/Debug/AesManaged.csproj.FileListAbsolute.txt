@@ -1,0 +1,6 @@
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\bin\Debug\AesManaged.exe.config
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\bin\Debug\AesManaged.exe
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\bin\Debug\AesManaged.pdb
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\obj\Debug\AesManaged.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\obj\Debug\AesManaged.exe
+C:\Users\Taufiqurrahman\source\repos\AesManaged\AesManaged\obj\Debug\AesManaged.pdb
