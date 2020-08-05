@@ -1,0 +1,6 @@
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\bin\Debug\DSACryptoServiceProvider.exe.config
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\bin\Debug\DSACryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\bin\Debug\DSACryptoServiceProvider.pdb
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\obj\Debug\DSACryptoServiceProvider.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\obj\Debug\DSACryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\DSACryptoServiceProvider\DSACryptoServiceProvider\obj\Debug\DSACryptoServiceProvider.pdb
