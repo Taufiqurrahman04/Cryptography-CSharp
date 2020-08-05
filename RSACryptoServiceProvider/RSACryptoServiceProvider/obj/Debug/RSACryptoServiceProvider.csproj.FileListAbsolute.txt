@@ -1,0 +1,6 @@
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\bin\Debug\RSACryptoServiceProvider.exe.config
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\bin\Debug\RSACryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\bin\Debug\RSACryptoServiceProvider.pdb
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\obj\Debug\RSACryptoServiceProvider.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\obj\Debug\RSACryptoServiceProvider.exe
+C:\Users\Taufiqurrahman\source\repos\RSACryptoServiceProvider\RSACryptoServiceProvider\obj\Debug\RSACryptoServiceProvider.pdb
