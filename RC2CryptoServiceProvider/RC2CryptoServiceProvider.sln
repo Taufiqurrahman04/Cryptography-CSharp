@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RC2CryptoServiceProvider", "RC2CryptoServiceProvider\RC2CryptoServiceProvider.csproj", "{003DF506-07DB-44A9-B824-75E1139418E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003DF506-07DB-44A9-B824-75E1139418E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003DF506-07DB-44A9-B824-75E1139418E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{003DF506-07DB-44A9-B824-75E1139418E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{003DF506-07DB-44A9-B824-75E1139418E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35257EC3-2203-4220-8FAA-1DE3BECF32CC}
+	EndGlobalSection
+EndGlobal
