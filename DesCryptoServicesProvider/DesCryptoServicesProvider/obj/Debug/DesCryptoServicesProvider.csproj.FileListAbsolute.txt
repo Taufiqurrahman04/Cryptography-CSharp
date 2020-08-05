@@ -1,0 +1,6 @@
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\obj\Debug\DesCryptoServicesProvider.csprojAssemblyReference.cache
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\bin\Debug\DesCryptoServicesProvider.exe.config
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\bin\Debug\DesCryptoServicesProvider.exe
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\bin\Debug\DesCryptoServicesProvider.pdb
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\obj\Debug\DesCryptoServicesProvider.exe
+C:\Users\Taufiqurrahman\source\repos\DesCryptoServicesProvider\DesCryptoServicesProvider\obj\Debug\DesCryptoServicesProvider.pdb
